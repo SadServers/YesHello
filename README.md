@@ -1,5 +1,3 @@
-# Yes Hello Me
-
 Some people have [no hello](https://nohello.net/) as Slack status or they enter that site when someone reaches out to them with just a "Hi!" or "Hello".  
 
 That is fine. Being effective and all.  
